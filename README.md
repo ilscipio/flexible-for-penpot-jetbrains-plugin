@@ -1,3 +1,5 @@
+![Rating](https://img.shields.io/jetbrains/plugin/r/stars/34826) ![Downloads](https://img.shields.io/jetbrains/plugin/d/34826) ![Version](https://img.shields.io/jetbrains/plugin/v/34826)
+
 <img src="logo.png" alt="Flexible for Penpot" width="96">
 
 # [Flexible for Penpot](https://plugins.jetbrains.com/plugin/34826-flexible-for-penpot)
